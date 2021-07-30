@@ -1,0 +1,39 @@
+.footerColor
+{
+  color: #ffffff
+}
+.topPadding
+{
+  padding-top: 20px;
+}
+
+.marginTopBottom{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.avatar
+{
+  width: 399px;
+  height: 336px;
+  box-shadow: 5px 5px 15px 5px #158cba;
+
+}
+
+.projectImg{
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.company{
+  text-align: center;
+  font-weight: bold;
+}
+
+.justifyText{
+  text-align: justify;
+}
+
