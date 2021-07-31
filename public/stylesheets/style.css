@@ -42,3 +42,8 @@
   font-weight: bold;
   text-decoration: underline;
 }
+
+.social a{
+   font-weight: bolder;
+   text-decoration: none;
+}
